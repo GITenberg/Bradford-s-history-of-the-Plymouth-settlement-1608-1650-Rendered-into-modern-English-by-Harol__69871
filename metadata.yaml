@@ -1,0 +1,41 @@
+_repo: Bradford-s-history-of-the-Plymouth-settlement-1608-1650-Rendered-into-modern-English-by-Harol__69871
+_version: 0.0.1
+alternative_title: History of Plymouth Plantation
+creator:
+  author:
+    agent_name: Bradford, William
+    birthdate: 1590
+    deathdate: 1657
+    gutenberg_agent_id: '26830'
+    url: http://www.gutenberg.org/2009/agents/26830
+    wikipedia: https://en.wikipedia.org/wiki/William_Bradford_(governor)
+  editor:
+    agent_name: Paget, Harold
+    birthdate: 1876
+    gutenberg_agent_id: '55463'
+    url: http://www.gutenberg.org/2009/agents/55463
+description: ''
+gutenberg_issued: '2023-01-24'
+identifiers:
+  gutenberg: '69871'
+  lccn: '20021983'
+language: en
+pgterms:marc904: https://archive.org/details/bradfordshistory00bra/page/130/mode/2up
+pgterms:marc905: 20220403115954bradford
+pgterms:marc906: '1909'
+pgterms:marc907: US
+production_note: Steve Mattern, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: 'United States: E. P. Dutton & Company,1909,copyright 1920.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Massachusetts -- History -- New Plymouth, 1620-1691'
+- !lcsh 'Pilgrims (New Plymouth Colony) -- Early works to 1800'
+- !lcc 'F001'
+- GITenberg
+title: "Bradford's history of the Plymouth settlement, 1608-1650\r\nRendered into\
+  \ modern English by Harold Paget"
+url: http://www.gutenberg.org/ebooks/69871
